@@ -1,0 +1,8 @@
+-----------------------------------------------------------
+Example with CI + ReactJs - CRUD Operation with DB MySQL
+-----------------------------------------------------------
+
+Set Development Envirement of PHP & ReactJs than run command on (assets/my-app) => npm start
+
+
+
